@@ -5,3 +5,4 @@ flask_login
 flask_wtf
 wtforms
 gunicorn
+psycopg2-binary
